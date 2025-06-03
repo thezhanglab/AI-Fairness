@@ -4,4 +4,4 @@ We examined the performance of five machine learning models when performing four
 
 Please contact the corresponding author with any questions, comments, or concerns regarding the paper: lanjing.zhang@rutgers.edu
 
-subfolder **scripts** includes code for the models and analyses used.
+file **scripts** includes code for the models and analyses used.
